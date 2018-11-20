@@ -8,6 +8,7 @@
 [![gitter chat](https://img.shields.io/gitter/room/LemoFoundationLtd/lemo-client.svg?style=flat-square)](https://gitter.im/LemoFoundationLtd/lemo-client)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![GitHub license](https://img.shields.io/badge/license-LGPL3.0-blue.svg?style=flat-square)](https://github.com/LemoFoundationLtd/lemo-client/blob/master/LICENSE)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flnkyan%2Flemo-client.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Flnkyan%2Flemo-client?ref=badge_shield)
 
 This is the LemoChain compatible JavaScript SDK which implements the Generic JSON RPC.
 
@@ -997,3 +998,6 @@ yarn test
 ## Licensing
 
 LGPL-3.0
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flnkyan%2Flemo-client.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Flnkyan%2Flemo-client?ref=badge_large)
